@@ -1,0 +1,52 @@
+StateAbbr,State,Question,Response,PopOver65,BothEmployed,BothUnemployed,PhysicalActivity,AlcoholConsumption,LessThanHS
+AL,Alabama,Adults who have had at least one drink of alcohol within the past 30 days,Yes,4849377,401462,186424,6056,2887,1063
+AK,Alaska,Adults who have had at least one drink of alcohol within the past 30 days,Yes,736732,69052,15810,3563,2385,232
+AZ,Arizona,Adults who have had at least one drink of alcohol within the past 30 days,Yes,6731484,498422,278162,11484,7093,1129
+AR,Arkansas,Adults who have had at least one drink of alcohol within the past 30 days,Yes,2966369,255166,116974,3418,1645,604
+CA,California,Adults who have had at least one drink of alcohol within the past 30 days,Yes,38802500,3092928,983550,6185,4206,1084
+CO,Colorado,Adults who have had at least one drink of alcohol within the past 30 days,Yes,5355866,540078,158022,11131,7260,767
+CT,Connecticut,Adults who have had at least one drink of alcohol within the past 30 days,Yes,3596677,368804,96068,6286,4618,517
+DE,Delaware,Adults who have had at least one drink of alcohol within the past 30 days,Yes,935614,84614,36590,3140,2068,401
+DC,District of Columbia,Adults who have had at least one drink of alcohol within the past 30 days,Yes,658893,39590,8428,3210,2343,257
+FL,Florida,Adults who have had at least one drink of alcohol within the past 30 days,Yes,19893297,1502696,874050,7393,4966,727
+GA,Georgia,Adults who have had at least one drink of alcohol within the past 30 days,Yes,10097343,854196,283046,4691,2589,704
+HI,Hawaii,Adults who have had at least one drink of alcohol within the past 30 days,Yes,1419561,117672,39838,5815,3533,347
+ID,Idaho,Adults who have had at least one drink of alcohol within the past 30 days,Yes,1634464,157732,66720,4337,2307,381
+IL,Illinois,Adults who have had at least one drink of alcohol within the past 30 days,Yes,12880580,1225250,358774,3845,2818,329
+IN,Indiana,Adults who have had at least one drink of alcohol within the past 30 days,Yes,6596855,650546,213612,8309,4877,1011
+IA,Iowa,Adults who have had at least one drink of alcohol within the past 30 days,Yes,3107126,376728,104926,6076,4205,488
+KS,Kansas,Adults who have had at least one drink of alcohol within the past 30 days,Yes,2904021,313216,89410,10237,6447,836
+KY,Kentucky,Adults who have had at least one drink of alcohol within the past 30 days,Yes,4413457,400652,179260,7626,3094,1211
+LA,Louisiana,Adults who have had at least one drink of alcohol within the past 30 days,Yes,4649676,350150,139616,4662,2960,819
+ME,Maine,Adults who have had at least one drink of alcohol within the past 30 days,Yes,1330089,140016,52506,7177,5010,470
+MD,Maryland,Adults who have had at least one drink of alcohol within the past 30 days,Yes,5976407,591908,145950,9688,6217,688
+MA,Massachusetts,Adults who have had at least one drink of alcohol within the past 30 days,Yes,6745408,692466,175456,12217,8671,985
+MI,Michigan,Adults who have had at least one drink of alcohol within the past 30 days,Yes,9909877,884330,399666,6390,4588,455
+MN,Minnesota,Adults who have had at least one drink of alcohol within the past 30 days,Yes,5457173,647446,174148,13072,9796,669
+MS,Mississippi,Adults who have had at least one drink of alcohol within the past 30 days,Yes,2994079,233582,98526,2807,1303,582
+MO,Missouri,Adults who have had at least one drink of alcohol within the past 30 days,Yes,6063589,583406,221716,5043,2757,703
+MT,Montana,Adults who have had at least one drink of alcohol within the past 30 days,Yes,1023579,104450,40386,5840,3920,481
+NE,Nebraska,Adults who have had at least one drink of alcohol within the past 30 days,Yes,1881503,229484,54868,16840,12053,1346
+NV,Nevada,Adults who have had at least one drink of alcohol within the past 30 days,Yes,2839099,212214,89422,2910,1945,318
+NH,New Hampshire,Adults who have had at least one drink of alcohol within the past 30 days,Yes,1326813,153816,41070,4855,3492,291
+NJ,New Jersey,Adults who have had at least one drink of alcohol within the past 30 days,Yes,8938175,890240,228554,9891,6911,938
+NM,New Mexico,Adults who have had at least one drink of alcohol within the past 30 days,Yes,2085572,149874,74768,6826,3730,1063
+NY,New York,Adults who have had at least one drink of alcohol within the past 30 days,Yes,19746227,1667978,528718,5122,3548,604
+NC,North Carolina,Adults who have had at least one drink of alcohol within the past 30 days,Yes,9943964,895982,346542,5493,2991,899
+ND,North Dakota,Adults who have had at least one drink of alcohol within the past 30 days,Yes,739482,90388,22150,5940,4264,472
+OH,Ohio,Adults who have had at least one drink of alcohol within the past 30 days,Yes,11594163,1102362,398190,7837,4906,842
+OK,Oklahoma,Adults who have had at least one drink of alcohol within the past 30 days,Yes,3878051,344438,130136,5785,3016,832
+OR,Oregon,Adults who have had at least one drink of alcohol within the past 30 days,Yes,3970239,355712,155034,4319,2925,285
+PA,Pennsylvania,Adults who have had at least one drink of alcohol within the past 30 days,Yes,12787209,1246966,444672,8191,5413,774
+RI,Rhode Island,Adults who have had at least one drink of alcohol within the past 30 days,Yes,1055173,101354,31350,4850,3745,503
+SC,South Carolina,Adults who have had at least one drink of alcohol within the past 30 days,Yes,4832482,400504,187182,8087,4647,1288
+SD,South Dakota,Adults who have had at least one drink of alcohol within the past 30 days,Yes,853175,102048,24974,5768,3796,496
+TN,Tennessee,Adults who have had at least one drink of alcohol within the past 30 days,Yes,6549352,575122,237238,3523,1670,650
+TX,Texas,Adults who have had at least one drink of alcohol within the past 30 days,Yes,26956958,2286894,673694,11132,6735,2108
+UT,Utah,Adults who have had at least one drink of alcohol within the past 30 days,Yes,2942902,291906,74384,12443,4030,780
+VT,Vermont,Adults who have had at least one drink of alcohol within the past 30 days,Yes,626562,73848,20850,5226,3955,314
+VA,Virginia,Adults who have had at least one drink of alcohol within the past 30 days,Yes,8326289,842090,238182,7122,4491,771
+WA,Washington,Adults who have had at least one drink of alcohol within the past 30 days,Yes,7061530,667590,231746,8270,5824,496
+WV,West Virginia,Adults who have had at least one drink of alcohol within the past 30 days,Yes,1850326,147548,93282,4368,1905,763
+WI,Wisconsin,Adults who have had at least one drink of alcohol within the past 30 days,Yes,5757564,646660,204268,5482,4229,386
+WY,Wyoming,Adults who have had at least one drink of alcohol within the past 30 days,Yes,584153,67316,17850,4700,2832,344
